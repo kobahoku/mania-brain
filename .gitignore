@@ -1,0 +1,8 @@
+node_modules/
+.pnpm-store/
+dist/
+.DS_Store
+.openai/
+mania-brain-*.png
+AGENTS.md
+sources/
