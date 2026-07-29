@@ -1,0 +1,14 @@
+{
+  "name": "MANIA BRAIN",
+  "short_name": "MANIA BRAIN",
+  "description": "店舗のノウハウを声で残す",
+  "start_url": "/mania-brain/",
+  "scope": "/mania-brain/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#f04432",
+  "lang": "ja",
+  "icons": [
+    { "src": "/mania-brain/app-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
